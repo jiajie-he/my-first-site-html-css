@@ -13,7 +13,7 @@ body {
 
 .top-cloud {
   position: absolute;
-  right: 250px;
+  right: 5%;
   top: 50px;
   width: 150px;
   height: 150px;
@@ -35,7 +35,7 @@ h2 {
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
+  left: 10%;
   bottom: 350px;
   width: 150px;
   height: 150px;
